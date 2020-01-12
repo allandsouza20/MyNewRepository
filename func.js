@@ -1,6 +1,7 @@
 function double(num)
 {
-  return x + j;
+  return num*num;
 }
+
 var x=2;
 double(x);
